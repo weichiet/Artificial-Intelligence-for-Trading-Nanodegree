@@ -11,7 +11,7 @@ In this program, you’ll analyze real data and build financial models for tradi
 ### 1. Basic Quantitative Trading
 Learn about market mechanics and how to generate signals with stock data. Work on developing a momentum-trading strategy in your first project.
 
-**[Project 1: Trading with Momentum](./project_1/project_1_starter_completed.ipynb)**
+**[Project 1: Trading with Momentum](./project_1/project_1_starter_completed.html)**
 * Implement a momentum trading strategy and test if it has the potential to be profitable.  
 You will work with historical data of a given stock universe and generate a trading signal based on a momentum indicator. You will then compute the signal and produce projected returns. Finally, you will perform a statistical test to conclude if there is alpha in the signal.
 
